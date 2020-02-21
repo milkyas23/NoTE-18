@@ -5,6 +5,7 @@ public class Queue {
     public void shouldBeAbleToCreateQueue() {
         new Queue();
     }
+    
 
 
 }

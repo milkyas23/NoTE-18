@@ -1,4 +1,4 @@
-import javax.xml.soap.Node;
+//import javax.xml.soap.Node;
 
 public class linkedlist {
     Node first;
@@ -6,7 +6,18 @@ public class linkedlist {
     public linkedlist() {
         first = null;
     }
+    public static void main(String args[]) {
+        linkedlist list = new linkedlist();
+        list.addLast(new Node("A",null));
+        list.addLast(new Node("B",null));
+        list.addLast(new Node("C",null));
+        list.addLast(new Node("D",null));
+        list.addLast(new Node("E",null));
+    }
+
+
     public void addLast(Node newNode){
+
     }
     public Node removeFirst() {
         return null;
