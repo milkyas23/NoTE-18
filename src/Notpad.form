@@ -16,23 +16,23 @@
           <text value="New/open"/>
         </properties>
       </component>
-      <component id="639c4" class="javax.swing.JButton" binding="sparaButton1" default-binding="true">
+      <component id="639c4" class="javax.swing.JButton" binding="save">
         <constraints>
           <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Spara"/>
+          <text value="Save"/>
         </properties>
       </component>
-      <component id="2ed6b" class="javax.swing.JButton" binding="clearButton" default-binding="true">
+      <component id="2ed6b" class="javax.swing.JButton" binding="copy">
         <constraints>
           <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Clear"/>
+          <text value="copy/paste"/>
         </properties>
       </component>
-      <component id="73dda" class="javax.swing.JButton" binding="menuButton" default-binding="true">
+      <component id="73dda" class="javax.swing.JButton" binding="menu">
         <constraints>
           <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
