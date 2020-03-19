@@ -19,6 +19,12 @@ public class Notpad {
 
             }
         });
+        menu.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent actionEvent) {
+          *//      textArea.append(textArea = null);
+            }
+        });
     }
 
     public static void main(String[] args) {
