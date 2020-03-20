@@ -22,7 +22,8 @@ public class Notpad {
         menu.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent actionEvent) {
-          *//      textArea.append(textArea = null);
+                textArea.setText("");
+
             }
         });
     }
